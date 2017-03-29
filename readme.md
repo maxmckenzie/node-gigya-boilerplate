@@ -1,5 +1,11 @@
 # Node Gigya Boilerplate
 
+# ##################
+# this now lives here https://github.com/gigya/node-gigya-boilerplate
+# ##################
+ I'm going to leave this repo here as its a tidy boilerplate node server
+
+
 ![Travis CI status](https://api.travis-ci.org/maxmckenzie/node-gigya-boilerplate.svg?branch=master "Travis CI eslint, unit and integration tests:")
 
 Boilerplate Node.js App using the Gigya accountJS Raas service. This project is intended to be used as a starting point for anyone working with the gigya platform on node.js
